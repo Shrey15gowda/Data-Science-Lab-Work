@@ -61,4 +61,4 @@ This repository contains all lab assignments and projects completed as part of t
 
 1. Clone the repository  
    ```bash
-   git clone
+   git clone https://github.com/Shrey15gowda/Data-Science-Lab-Work
