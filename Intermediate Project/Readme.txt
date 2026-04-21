@@ -56,4 +56,4 @@ The objective of this project is to analyze student performance data and build a
 This project shows that data analysis and machine learning can effectively predict student performance. Various socio-economic and educational factors influence student scores, and predictive models can help identify trends and improve outcomes.
 
 ## Author  
-Swaraj Palaskar
+Shreyas S Gowda
