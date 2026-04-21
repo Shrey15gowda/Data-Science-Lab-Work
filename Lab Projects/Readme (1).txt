@@ -57,4 +57,4 @@ This repository includes all lab assignments and projects completed during the D
 
 ## Author
 
-Swaraj Palaskar
+Shreyas S Gowda
